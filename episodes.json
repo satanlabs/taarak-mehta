@@ -500,26 +500,6 @@
 			"episodeNum": 100,
 			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 100",
 			"link": "https://www.youtube.com/watch?v=GXO88PWOuQ8"
-		},
-		{
-			"episodeNum": __NUMBER__,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
-		},
-		{
-			"episodeNum": __NUMBER__,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
-		},
-		{
-			"episodeNum": __NUMBER__,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
-		},
-		{
-			"episodeNum": __NUMBER__,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
 		}
 	]
 }
