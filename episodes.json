@@ -59,7 +59,8 @@
 		{
 			"episodeNum": 12,
 			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 12",
-			"link": "https://www.youtube.com/watch?v=PoVheeq-yL4"
+			"link": "https://www.youtube.com/watch?v=5xK2LtmEz6w",
+			"link_older_1":"https://www.youtube.com/watch?v=PoVheeq-yL4"
 		},
 		{
 			"episodeNum": 13,
@@ -94,7 +95,8 @@
 		{
 			"episodeNum": 19,
 			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 19",
-			"link": "https://www.youtube.com/watch?v=-CZq_6rhBq0"
+			"link":"https://www.youtube.com/watch?v=lQbx5GfKhNY",
+			"link_older_1": "https://www.youtube.com/watch?v=-CZq_6rhBq0"
 		},
 		{
 			"episodeNum": 20,
@@ -114,7 +116,8 @@
 		{
 			"episodeNum": 23,
 			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 23",
-			"link": "https://www.youtube.com/watch?v=RU-jfT25Lkc"
+			"link":"https://www.youtube.com/watch?v=Av0hnLQf2ME",
+			"link_older_1": "https://www.youtube.com/watch?v=RU-jfT25Lkc"
 		},
 		{
 			"episodeNum": 24,
@@ -124,7 +127,8 @@
 		{
 			"episodeNum": 25,
 			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 25",
-			"link": "https://www.youtube.com/watch?v=lhAV3lw-NQI"
+			"link":"https://www.youtube.com/watch?v=g8cYu53U0Js",
+			"link_older_1": "https://www.youtube.com/watch?v=lhAV3lw-NQI"
 		},
 		{
 			"episodeNum": 26,
@@ -149,12 +153,14 @@
 		{
 			"episodeNum": 30,
 			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 30",
-			"link": "https://www.youtube.com/watch?v=f-wxmsL2Nkg"
+			"link":"https://www.youtube.com/watch?v=DGGP8KSoeDc",
+			"link_older_1": "https://www.youtube.com/watch?v=f-wxmsL2Nkg"
 		},
 		{
 			"episodeNum": 31,
 			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 31",
-			"link": "https://www.youtube.com/watch?v=c8dvOhaMYOw"
+			"link":"https://www.youtube.com/watch?v=IU4Tkw58rJE",
+			"link_older_1": "https://www.youtube.com/watch?v=c8dvOhaMYOw"
 		},
 		{
 			"episodeNum": 32,
@@ -213,8 +219,8 @@
 		},
 		{
 			"episodeNum": 43,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
+			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 43 - Full Episode",
+			"link": "https://www.youtube.com/watch?v=7Nqx0Ho2RMM"
 		},
 		{
 			"episodeNum": 44,
@@ -228,8 +234,8 @@
 		},
 		{
 			"episodeNum": 46,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
+			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 46 - Full Episode",
+			"link": "https://www.youtube.com/watch?v=ErS2axszcX4"
 		},
 		{
 			"episodeNum": 47,
@@ -293,8 +299,8 @@
 		},
 		{
 			"episodeNum": 59,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
+			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 59",
+			"link": "https://www.youtube.com/watch?v=igRdRujw-Ik"
 		},
 		{
 			"episodeNum": 60,
@@ -353,8 +359,8 @@
 		},
 		{
 			"episodeNum": 71,
-			"commonName": "__COMMON_NAME__",
-			"link": "__LINK__"
+			"commonName": "Taarak Mehta Ka Ooltah Chashmah - तारक मेहता का उल्टा चशमाह - Episode 71",
+			"link": "https://www.youtube.com/watch?v=aMgPWmI-JwA"
 		},
 		{
 			"episodeNum": 72,
